@@ -15,7 +15,7 @@ const CardContainer=styled.div`
     }
 
     :hover {
-        transform: scale(1.05cd);
+        transform: scale(1.05);
     }
 `;
 
@@ -23,7 +23,6 @@ const Title=styled.p`
     font-weight: bolder;
     font-size: 20px;
     padding-bottom: 5px;
-
 `;
 
 const Author=styled.p`
