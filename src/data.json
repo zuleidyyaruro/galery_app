@@ -1,0 +1,52 @@
+{
+    "galery":[
+        {
+            "name": "Starry Night",
+            "author": "Vincent Van Gogh",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/757px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+            "description": "Van Gogh's night sky is a field of roiling energy. Below the exploding stars, the village is a place of quiet order. Connecting earth and sky is the flamelike cypress, a tree traditionally associated with graveyards and mourning. But death was not ominous for van Gogh. 'Looking at the stars always makes me dream,' he said, 'Why, I ask myself, shouldn't the shining dots of the sky be as accessible as the black dots on the map of France? Just as we take the train to get to Tarascon or Rouen, we take death to reach a star.'"
+        },
+        {
+            "name": "Girl With a Pearl Earring",
+            "author": "Johannes Vermeer",
+            "url": "https://m.media-amazon.com/images/I/71OuMhKqvgL._AC_SY679_.jpg",
+            "description": "'La Joven de la Perla' es el cuadro más famoso de Vermeer. No es un retrato, sino un 'tronie', es decir, la pintura de una figura imaginaria que representa a cierto tipo o personaje; en este caso, una joven que lleva un vestido exótico, un turbante oriental y una perla extremadamente grande en la oreja. Johannes Vermeer fue el maestro de la luz. Aquí se destacan la suavidad del rostro de la joven, los destellos que salen de sus húmedos labios y, por supuesto, la perla brillante."
+        },
+        {
+            "name": "Guernica",
+            "author": "Johannes Vermeer",
+            "url": "https://www.diariocritico.com/fotos/1/319078_EEl_isgXYAY8N-9_thumb_835.jpg",
+            "description": "Guernica es un cuadro de Pablo Picasso, pintado en París ​ entre los meses de mayo y junio de 1937, cuyo título alude al bombardeo de Guernica, ocurrido el 26 de abril de dicho año, durante la guerra civil española."
+        },
+        {
+            "name": "Mona Lisa",
+            "author": "Leonardo da Vinci",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg/800px-Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg",
+            "description": "El Retrato de Lisa Gherardini, esposa de Francesco del Giocondo,1​ más conocido como La Gioconda (La Joconde en francés) o La Mona Lisa, es una obra pictórica del polímata renacentista italiano Leonardo da Vinci. Fue adquirida por el rey Francisco I de Francia a comienzos del siglo XVI y desde entonces es propiedad del Estado francés. Se halla expuesta en el Museo del Louvre de París, siendo, sin duda, la «joya» de sus colecciones."
+        },
+        {
+            "name": "Lady with an Ermine",
+            "author": "Leonardo da Vinci",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg/800px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg",
+            "description": "La dama del armiño (en italiano, La dama con l'ermellino) es un cuadro del pintor renacentista italiano Leonardo da Vinci, realizado hacia 1490.1​ La modelo ha sido identificada con Cecilia Gallerani, retratada cuando era la amante de Ludovico Sforza, duque de Milán y cuando Leonardo estaba a su servicio. El cuadro es uno de los cuatro retratos femeninos pintados por Leonardo, siendo los otros La Gioconda, el retrato de Ginevra de Benci y La Belle Ferronière."
+        },
+        {
+            "name": "The Night Café",
+            "author": "Vincent van Gogh",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vincent_Willem_van_Gogh_076.jpg/800px-Vincent_Willem_van_Gogh_076.jpg",
+            "description": "El Café de noche es una pintura realizada por el pintor holandés Vincent van Gogh en septiembre de 1888 en Arlés. Su título está escrito en la parte inferior derecha del cuadro, bajo la firma. Actualmente este cuadro forma parte de las colecciones de la Yale University Art Gallery."
+        },
+        {
+            "name": "The Great Wave off Kanagawa",
+            "author": "Katsushika Hokusai",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/800px-Great_Wave_off_Kanagawa2.jpg",
+            "description": "La gran ola de Kanagawa2​ (神奈川沖浪裏 Kanagawa oki nami ura?, literalmente «Bajo una ola en altamar en Kanagawa»), también conocida simplemente como La ola o La gran ola, es una famosa estampa japonesa del pintor especialista en ukiyo-e, Katsushika Hokusai, publicada entre 1830 y 1833,3​ durante el período Edo de la historia de Japón."
+        },
+        {
+            "name": "The Storm on the Sea Of Galilee",
+            "author": "Rembrandt",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+            "description": "La tormenta en el mar de Galilea es una obra del pintor holandés Rembrandt, pintada hacia 1633, que se exhibía en el Museo Isabella Stewart Gardner de Boston, Massachusetts, Estados Unidos."
+        }
+    ]
+}
